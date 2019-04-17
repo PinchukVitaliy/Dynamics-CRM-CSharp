@@ -8,3 +8,13 @@ C:\Users\Zigo\Desktop\C# crm\PinkEducationPlagin\PinkEducationPlagin\obj\Debug\P
 C:\Users\Zigo\Desktop\C# crm\PinkEducationPlagin\PinkEducationPlagin\obj\Debug\PinkEducationPlagin.dll
 C:\Users\Zigo\Desktop\C# crm\PinkEducationPlagin\PinkEducationPlagin\obj\Debug\PinkEducationPlagin.pdb
 C:\Users\Zigo\Desktop\C# crm\PinkEducationPlagin\PinkEducationPlagin\obj\Debug\PinkEducationPlagin.csprojAssemblyReference.cache
+C:\Users\Zigo\Desktop\Ccrm\PinkEducationPlagin\PinkEducationPlagin\bin\Debug\PinkEducationPlagin.dll
+C:\Users\Zigo\Desktop\Ccrm\PinkEducationPlagin\PinkEducationPlagin\bin\Debug\PinkEducationPlagin.pdb
+C:\Users\Zigo\Desktop\Ccrm\PinkEducationPlagin\PinkEducationPlagin\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\Zigo\Desktop\Ccrm\PinkEducationPlagin\PinkEducationPlagin\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\Zigo\Desktop\Ccrm\PinkEducationPlagin\PinkEducationPlagin\bin\Debug\Microsoft.Xrm.Sdk.Workflow.dll
+C:\Users\Zigo\Desktop\Ccrm\PinkEducationPlagin\PinkEducationPlagin\obj\Debug\PinkEducationPlagin.csprojAssemblyReference.cache
+C:\Users\Zigo\Desktop\Ccrm\PinkEducationPlagin\PinkEducationPlagin\obj\Debug\PinkEducationPlagin.csproj.CoreCompileInputs.cache
+C:\Users\Zigo\Desktop\Ccrm\PinkEducationPlagin\PinkEducationPlagin\obj\Debug\PinkEducationPlagin.csproj.CopyComplete
+C:\Users\Zigo\Desktop\Ccrm\PinkEducationPlagin\PinkEducationPlagin\obj\Debug\PinkEducationPlagin.dll
+C:\Users\Zigo\Desktop\Ccrm\PinkEducationPlagin\PinkEducationPlagin\obj\Debug\PinkEducationPlagin.pdb
