@@ -1,0 +1,48 @@
+﻿@{
+    ViewBag.Title = "About";
+}
+<h2>@ViewBag.Title.</h2>
+
+
+<div class="container">
+    @using (Html.BeginForm("About", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+    {
+        @*@ViewBag.tt[new Guid("{B10F2561-CD53-E911-8117-00155D05FA01}")]*@
+        @*&#8195; - широкий пробел*@
+        <h3>Name Entity PinkTest</h3>
+
+        foreach (var entity in ViewBag.Records)
+        {
+            <p>
+                <input name="guid" type="checkbox" value="@entity.Key" /> &#8195;
+                @entity.Value
+            </p>
+        }
+        <br />
+        <br />
+        <input type="file" name="uploads" multiple />
+        <br />
+        <br />
+        <div class="container">
+            <input style="color:black" type="submit" value="Save" /> &#8195; &#8195; &#8195; &#8195;
+            <a href="Url.Action(About, Home)">
+                <button style="color:black">Cancel</button>
+            </a>&#8195; &#8195; &#8195; &#8195;
+            <input style="color:black" type="button" value="Cancel JS" OnClick="CancelBtn_Click()" />
+        </div>
+    }
+</div>
+
+
+@ViewBag.CheckBoxList
+
+<script>
+    function CancelBtn_Click()
+    {
+        if (!$('input:checkbox').is('checked')) {
+            $('input:checkbox').prop('checked', false);
+        } else {
+            $('input:checkbox').prop('checked', true);
+        }    
+    }
+</script>
